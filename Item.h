@@ -9,7 +9,7 @@ class Item {
       // 1. Write the Default Constructor
       Item();
       // 2. Write the Overloaded Constructor
-      Item(int itmeno,float unitprc, float disc);
+      Item(int itemno, float unitprc);
       // 3. Write the Destructor
       ~Item();
 
